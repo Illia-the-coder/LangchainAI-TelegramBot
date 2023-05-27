@@ -25,7 +25,7 @@ LangchainAI-TelegramBot is a powerful, feature-rich bot that leverages the capab
 
 ## Installation
 
-1. Clone this repository to your local machine using `https://github.com/<Your Github Username>/LangchainAI-TelegramBot.git`.
+1. Clone this repository to your local machine using `https://github.com/Illia-the-coder/LangchainAI-TelegramBot.git`.
 2. Navigate to the project directory.
 3. Install the necessary packages using `pip install -r requirements.txt`.
 4. Set up the necessary API keys and environment variables.
